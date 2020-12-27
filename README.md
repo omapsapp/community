@@ -7,14 +7,14 @@ improving docs, improving code, giving talks etc.
 
 [**Roadmap**](https://github.com/omapsapp/community/wiki/Roadmap)
 
-[**Communication**](https://github.com/omapsapp/community/Communication)
+[**Communication**](https://github.com/omapsapp/community/wiki/Communication)
 
-[**Contributing**](https://github.com/omapsapp/community/Contributing)
+[**Contributing**](https://github.com/omapsapp/community/wiki/Contributing)
 
-[**Guidelines**](https://github.com/omapsapp/community/Guidelines)
+[**Guidelines**](https://github.com/omapsapp/community/wiki/Guidelines)
 
-[**Infrastructure**](https://github.com/omapsapp/community/Infrastructure)
+[**Infrastructure**](https://github.com/omapsapp/community/wiki/Infrastructure)
 
-[**Governance**](https://github.com/omapsapp/community/Governance)
+[**Governance**](https://github.com/omapsapp/community/wiki/Governance)
 
 See [wiki](https://github.com/omapsapp/community/wiki) for the actual information.
