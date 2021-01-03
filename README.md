@@ -9,9 +9,7 @@ improving docs, improving code, giving talks etc.
 
 [**Communication**](https://github.com/omapsapp/community/wiki/Communication)
 
-[**Contributing**](https://github.com/omapsapp/community/wiki/Contributing)
-
-[**Guidelines**](https://github.com/omapsapp/community/wiki/Guidelines)
+[**Contributing**](https://github.com/omapsapp/omapsapp/blob/docs/docs/CONTRIBUTING.md)
 
 [**Infrastructure**](https://github.com/omapsapp/community/wiki/Infrastructure)
 
