@@ -5,14 +5,5 @@ Welcome to the OMaps community!
 This is the starting point for joining and contributing to the OMaps community -
 improving docs, improving code, giving talks etc.
 
-[**Roadmap**](https://github.com/omapsapp/community/wiki/Roadmap)
-
-[**Communication**](https://github.com/omapsapp/community/wiki/Communication)
-
-[**Contributing**](https://github.com/omapsapp/omapsapp/blob/master/docs/CONTRIBUTING.md)
-
-[**Infrastructure**](https://github.com/omapsapp/community/wiki/Infrastructure)
-
-[**Governance**](https://github.com/omapsapp/community/wiki/Governance)
-
-See [wiki](https://github.com/omapsapp/community/wiki) for the actual information.
+See [docs/](https://github.com/omapsapp/omapsapp/blob/master/docs/README.md) directory
+for the actual information.
